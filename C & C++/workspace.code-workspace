@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads"
+		},
+		{
+			"path": "../Downloads/Solidum_Football"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"conio.h": "c"
+		}
+	}
+}
